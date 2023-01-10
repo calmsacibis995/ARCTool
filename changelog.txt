@@ -1,5 +1,8 @@
 CHANGELOG
 
+v0.4rc1:
+	Partial update to Python 3.
+
 v0.3b:
 	Fixed a bug with RARC extraction where it would improperly detect . and .. entries and either skip directories or recurse infinitely. (Again, my test archives decieved me!)
 	Added the -l option which lists the contents of the archive without extracting them.
